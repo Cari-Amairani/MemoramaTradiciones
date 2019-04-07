@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="iBtn4" type="id" />
+    <item name="iBtn7" type="id" />
+    <item name="iBtn5" type="id" />
+    <item name="iBtn" type="id" />
+    <item name="iBtn6" type="id" />
+    <item name="iBtn2" type="id" />
+    <item name="iBtn3" type="id" />
+    <item name="button" type="id" />
+    <item name="puntaje" type="id" />
+    <item name="fallas" type="id" />
+</resources>
